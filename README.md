@@ -55,7 +55,7 @@ npm install
 Hacer el build y deployment en development mode.
 
 ```html
-yarn devdeploy
+yarn deploy:dev
 ```
 # Comandos :
 
