@@ -86,8 +86,7 @@ near call CONTRACT_ACCOUNT_ID crearSolicitud "{ \"titulo\": \"string\", \"descri
 ## Comando para conseguir la lista de Solicitudes:
 
 ```html
-near call
-near view CONTRACT_ACCOUNT_ID listarSolicitudes
+near call near view CONTRACT_ACCOUNT_ID listarSolicitudes
 ```
 
 ## Comando para eliminar una solicitud:
