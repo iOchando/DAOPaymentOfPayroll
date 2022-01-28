@@ -10,6 +10,9 @@ Este smart contract permite:
 - Eliminar una solicitud de pago con el metodo eliminarSolicitud.
 - Realizar el pago de una solicitud con el metodo RealizarPago.
 
+<img width="760" alt="Proceso" src="https://user-images.githubusercontent.com/96194326/151623400-e0bac701-7147-45b0-b243-26b29b0d274b.png">
+
+
 # Instalación :
 
 Para la instalación local de este projecto:
