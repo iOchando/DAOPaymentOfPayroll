@@ -33,7 +33,7 @@ export function crearEmpleado(
   sueldo: i32,
 ): string {
   assert(nombre.length > 0, "El titulo no puede estar vacio.");
-  assert(nearid.length > 0, "El near id no puede estar vacio.");
+  assert(nearid.length > 0, "El near ID no puede estar vacio.");
   assert(sueldo > 1, "El monto debe ser mayor a 0");
 
   const nuevoEmpleado = new Empleado(
